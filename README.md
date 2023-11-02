@@ -40,5 +40,28 @@ We welcome contributions from the community! Whether it's bug reporting, feature
 
 License
 
-PyMario64 is licensed under the MIT License.
+PyMario64 is licensed under the MIT License
+--
+
+Installation
+
+Before diving into UltraMario, you'll need to have Pygame installed. Follow the steps below to get it set up on your machine:
+
+Prerequisites
+Make sure you have Python installed on your computer. You can download it from the official website.
+Installing Pygame
+Via pip (Recommended):
+Open your terminal or command prompt.
+Run the following command to install Pygame:
+bash
+Copy code
+pip install pygame
+Via PyPI:
+Visit Pygame on PyPI.
+Download the wheel file compatible with your system.
+Install the wheel file using pip:
+bash
+Copy code
+pip install [path_to_wheel_file]
+ 
 
